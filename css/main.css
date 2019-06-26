@@ -1,0 +1,33 @@
+.site-header{
+
+    background-color:#7d8181;
+    color : #ffffff;
+    height: 100vh;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;   
+    align-items: center;
+}
+
+body{
+    margin: 0%;
+}
+
+.profile-pic{
+
+    border-radius: 50%;
+    height: 150pt;
+    width: 150pt;
+    box-shadow: #423f3e 10px 25px 80px;
+}
+
+.site-header-content{
+    margin: 20pt;
+   font-size: 10px;
+}
+
+
+.channel-link{
+    color: #ffffff;
+}
